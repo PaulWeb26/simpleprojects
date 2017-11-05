@@ -1,0 +1,45 @@
+<html>
+<title>CATS</title>
+<head>
+<link href ="start.css" type="text/css" rel ="stylesheet" >
+</head>
+<body>
+  <p><h1><center>Short, Funny Cat Jokes<center></p></h1>
+
+    <p>Why dont cats play poker in the jungle? Too many cheetahs.</p>
+
+    <p>Why did the cat run from the tree? Because it was afraid of the bark!</p>
+    <hr>
+
+    <p>How do cats end a fight? They hiss and make up.</p>
+
+    <p>How many cats can you put into an empty box? Only one. After that, the box isnt empty.</p>
+
+    <p>What does a cat like to eat on a hot day? A mice cream cone.</p>
+
+    <p>If lights run on electricity and cars run on gas, what do cats run on? Their paws.</p>
+    <hr>
+    <center><div class="btn-group btn-group-lg"><center>
+      <button type="button" class="btn btn-primary">Thank</button>
+        <button type="button" class="btn btn primary">you</button>
+          <button type="button" class="btn btn primary">for</button>
+            <button type="button" class="btn btn-primary">your</button>
+              <button type="button" class="btn btn-primary">attention.</button>
+            </div>
+
+    <center><div class="form-group"><center>
+     <label for="usr">Name:</label>
+     <input type="text" class="form-control" id="usr">
+   </div>
+  <center><div class="form-group"><center>
+     <label for="pwd">Password:</label>
+     <input type="password" class="form-control" id="pwd">
+   </div>
+   <div class="form-group">
+    <label for="comment">Comment:</label>
+    <textarea class="form-control" rows="5" id="comment"></textarea>
+  </div>
+<button type="submit">Submit</button>
+
+</body>
+</html>
